@@ -67,6 +67,5 @@ oneoncology.app.longtail.health
 *.cudasvc.com
 *.providernsa.com
 *.secure.goemerchant.com
-url.avanan.click
-*url.avanan.click/
+*https://url.avanan.click/v2/r01/___https://oneoncology.sharepoint.com/
 *.link.labcorp.com
