@@ -78,8 +78,10 @@ www.freemanhealthnw.com
 *provider.linkhealth.com
 *clarity.dexcom.com
 app.cyera.io
-cyera.cloud
-*.cyera.cloud
-*.*.cyera.cloud
-tunnel.connect.cyera.cloud
 bvcancercenter.com
+tunnel.connect.cyera.cloud
+ingress.coralogix.com
+coralogix.com
+*.lencr.org
+connect.cyera.network
+us.connect.cyera.network
