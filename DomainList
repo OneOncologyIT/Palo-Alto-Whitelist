@@ -106,4 +106,5 @@ houserx.com
 *.lookaheadmbc.com
 *.vytalmed.app
 vytalmed.app
-*redcap.link
+*.redcap.link/
+redcap.link/
